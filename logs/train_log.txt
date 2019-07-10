@@ -1,0 +1,201 @@
+[epoch0] trian_loss=315.74 train_maxp=0.50 valid_loss=301.18 valid_maxp=0.54 bps=53 *
+[epoch1] trian_loss=272.44 train_maxp=0.62 valid_loss=266.15 valid_maxp=0.67 bps=68 *
+[epoch2] trian_loss=244.86 train_maxp=0.70 valid_loss=244.30 valid_maxp=0.71 bps=68 *
+[epoch3] trian_loss=226.64 train_maxp=0.72 valid_loss=229.50 valid_maxp=0.73 bps=67 *
+[epoch4] trian_loss=214.21 train_maxp=0.73 valid_loss=219.21 valid_maxp=0.74 bps=68 *
+[epoch5] trian_loss=205.10 train_maxp=0.74 valid_loss=211.00 valid_maxp=0.74 bps=67 *
+[epoch6] trian_loss=198.05 train_maxp=0.75 valid_loss=203.96 valid_maxp=0.75 bps=67 *
+[epoch7] trian_loss=192.33 train_maxp=0.75 valid_loss=198.79 valid_maxp=0.75 bps=67 *
+[epoch8] trian_loss=187.55 train_maxp=0.76 valid_loss=194.27 valid_maxp=0.76 bps=67 *
+[epoch9] trian_loss=183.59 train_maxp=0.76 valid_loss=190.40 valid_maxp=0.76 bps=67 *
+[epoch10] trian_loss=180.21 train_maxp=0.76 valid_loss=186.59 valid_maxp=0.76 bps=67 *
+[epoch11] trian_loss=177.20 train_maxp=0.76 valid_loss=183.57 valid_maxp=0.76 bps=67 *
+[epoch12] trian_loss=174.49 train_maxp=0.76 valid_loss=181.15 valid_maxp=0.76 bps=67 *
+[epoch13] trian_loss=172.02 train_maxp=0.76 valid_loss=178.76 valid_maxp=0.75 bps=67 *
+[epoch14] trian_loss=169.82 train_maxp=0.76 valid_loss=176.75 valid_maxp=0.75 bps=67 *
+[epoch15] trian_loss=167.85 train_maxp=0.75 valid_loss=174.58 valid_maxp=0.75 bps=67 *
+[epoch16] trian_loss=166.02 train_maxp=0.75 valid_loss=172.57 valid_maxp=0.75 bps=67 *
+[epoch17] trian_loss=164.34 train_maxp=0.75 valid_loss=170.73 valid_maxp=0.75 bps=67 *
+[epoch18] trian_loss=162.71 train_maxp=0.75 valid_loss=169.16 valid_maxp=0.75 bps=67 *
+[epoch19] trian_loss=161.28 train_maxp=0.75 valid_loss=167.50 valid_maxp=0.75 bps=67 *
+[epoch20] trian_loss=159.95 train_maxp=0.75 valid_loss=165.95 valid_maxp=0.75 bps=67 *
+[epoch21] trian_loss=158.75 train_maxp=0.75 valid_loss=164.93 valid_maxp=0.75 bps=67 *
+[epoch22] trian_loss=157.56 train_maxp=0.75 valid_loss=163.44 valid_maxp=0.75 bps=67 *
+[epoch23] trian_loss=156.47 train_maxp=0.75 valid_loss=162.51 valid_maxp=0.74 bps=67 *
+[epoch24] trian_loss=155.44 train_maxp=0.75 valid_loss=161.63 valid_maxp=0.75 bps=67 *
+[epoch25] trian_loss=154.48 train_maxp=0.75 valid_loss=160.36 valid_maxp=0.75 bps=67 *
+[epoch26] trian_loss=153.62 train_maxp=0.75 valid_loss=159.32 valid_maxp=0.75 bps=67 *
+[epoch27] trian_loss=152.83 train_maxp=0.75 valid_loss=158.49 valid_maxp=0.75 bps=67 *
+[epoch28] trian_loss=152.04 train_maxp=0.75 valid_loss=157.79 valid_maxp=0.75 bps=67 *
+[epoch29] trian_loss=151.27 train_maxp=0.75 valid_loss=156.99 valid_maxp=0.75 bps=67 *
+[epoch30] trian_loss=150.56 train_maxp=0.75 valid_loss=156.22 valid_maxp=0.75 bps=67 *
+[epoch31] trian_loss=149.92 train_maxp=0.75 valid_loss=155.63 valid_maxp=0.75 bps=67 *
+[epoch32] trian_loss=149.31 train_maxp=0.75 valid_loss=154.47 valid_maxp=0.75 bps=67 *
+[epoch33] trian_loss=148.78 train_maxp=0.75 valid_loss=154.11 valid_maxp=0.76 bps=67 *
+[epoch34] trian_loss=148.22 train_maxp=0.76 valid_loss=153.12 valid_maxp=0.75 bps=67 *
+[epoch35] trian_loss=147.71 train_maxp=0.76 valid_loss=152.83 valid_maxp=0.76 bps=67 *
+[epoch36] trian_loss=147.13 train_maxp=0.76 valid_loss=152.20 valid_maxp=0.76 bps=67 *
+[epoch37] trian_loss=146.69 train_maxp=0.76 valid_loss=151.74 valid_maxp=0.76 bps=67 *
+[epoch38] trian_loss=146.23 train_maxp=0.76 valid_loss=151.69 valid_maxp=0.76 bps=67 
+[epoch39] trian_loss=145.83 train_maxp=0.76 valid_loss=150.84 valid_maxp=0.76 bps=67 *
+[epoch40] trian_loss=145.47 train_maxp=0.76 valid_loss=150.52 valid_maxp=0.76 bps=67 *
+[epoch41] trian_loss=145.10 train_maxp=0.77 valid_loss=150.04 valid_maxp=0.77 bps=67 *
+[epoch42] trian_loss=144.76 train_maxp=0.77 valid_loss=149.48 valid_maxp=0.77 bps=67 *
+[epoch43] trian_loss=144.39 train_maxp=0.77 valid_loss=149.20 valid_maxp=0.77 bps=67 *
+[epoch44] trian_loss=144.10 train_maxp=0.77 valid_loss=148.87 valid_maxp=0.77 bps=67 *
+[epoch45] trian_loss=143.74 train_maxp=0.77 valid_loss=148.22 valid_maxp=0.77 bps=67 *
+[epoch46] trian_loss=143.49 train_maxp=0.77 valid_loss=148.17 valid_maxp=0.77 bps=67 
+[epoch47] trian_loss=143.18 train_maxp=0.77 valid_loss=147.83 valid_maxp=0.77 bps=67 *
+[epoch48] trian_loss=142.91 train_maxp=0.77 valid_loss=147.49 valid_maxp=0.78 bps=67 *
+[epoch49] trian_loss=142.63 train_maxp=0.77 valid_loss=147.05 valid_maxp=0.77 bps=67 *
+[epoch50] trian_loss=142.44 train_maxp=0.78 valid_loss=147.20 valid_maxp=0.78 bps=67 
+[epoch51] trian_loss=142.15 train_maxp=0.78 valid_loss=146.89 valid_maxp=0.78 bps=67 *
+[epoch52] trian_loss=141.98 train_maxp=0.78 valid_loss=146.68 valid_maxp=0.78 bps=67 *
+[epoch53] trian_loss=141.73 train_maxp=0.78 valid_loss=146.60 valid_maxp=0.78 bps=67 
+[epoch54] trian_loss=141.51 train_maxp=0.78 valid_loss=146.06 valid_maxp=0.78 bps=67 *
+[epoch55] trian_loss=141.24 train_maxp=0.78 valid_loss=145.82 valid_maxp=0.78 bps=67 *
+[epoch56] trian_loss=141.11 train_maxp=0.78 valid_loss=145.86 valid_maxp=0.78 bps=67 
+[epoch57] trian_loss=140.87 train_maxp=0.78 valid_loss=145.44 valid_maxp=0.78 bps=67 *
+[epoch58] trian_loss=140.77 train_maxp=0.78 valid_loss=144.94 valid_maxp=0.78 bps=67 *
+[epoch59] trian_loss=140.56 train_maxp=0.78 valid_loss=144.65 valid_maxp=0.79 bps=67 *
+[epoch60] trian_loss=140.38 train_maxp=0.79 valid_loss=144.99 valid_maxp=0.79 bps=67 
+[epoch61] trian_loss=140.21 train_maxp=0.79 valid_loss=144.57 valid_maxp=0.79 bps=67 
+[epoch62] trian_loss=140.06 train_maxp=0.79 valid_loss=144.66 valid_maxp=0.79 bps=67 
+[epoch63] trian_loss=139.89 train_maxp=0.79 valid_loss=144.15 valid_maxp=0.79 bps=67 *
+[epoch64] trian_loss=139.76 train_maxp=0.79 valid_loss=144.36 valid_maxp=0.79 bps=67 
+[epoch65] trian_loss=139.65 train_maxp=0.79 valid_loss=144.29 valid_maxp=0.79 bps=67 
+[epoch66] trian_loss=139.49 train_maxp=0.79 valid_loss=144.00 valid_maxp=0.79 bps=67 *
+[epoch67] trian_loss=139.38 train_maxp=0.79 valid_loss=143.71 valid_maxp=0.79 bps=67 *
+[epoch68] trian_loss=139.27 train_maxp=0.79 valid_loss=143.55 valid_maxp=0.79 bps=67 *
+[epoch69] trian_loss=139.13 train_maxp=0.79 valid_loss=143.43 valid_maxp=0.79 bps=67 
+[epoch70] trian_loss=138.99 train_maxp=0.79 valid_loss=143.51 valid_maxp=0.80 bps=67 
+[epoch71] trian_loss=138.81 train_maxp=0.79 valid_loss=143.07 valid_maxp=0.80 bps=67 *
+[epoch72] trian_loss=138.73 train_maxp=0.79 valid_loss=143.09 valid_maxp=0.80 bps=67 
+[epoch73] trian_loss=138.65 train_maxp=0.79 valid_loss=143.28 valid_maxp=0.80 bps=67 
+[epoch74] trian_loss=138.47 train_maxp=0.80 valid_loss=143.02 valid_maxp=0.80 bps=67 
+[epoch75] trian_loss=138.38 train_maxp=0.80 valid_loss=142.86 valid_maxp=0.80 bps=67 *
+[epoch76] trian_loss=138.27 train_maxp=0.80 valid_loss=142.61 valid_maxp=0.80 bps=67 *
+[epoch77] trian_loss=138.16 train_maxp=0.80 valid_loss=142.61 valid_maxp=0.80 bps=67 
+[epoch78] trian_loss=138.04 train_maxp=0.80 valid_loss=142.63 valid_maxp=0.80 bps=67 
+[epoch79] trian_loss=137.94 train_maxp=0.80 valid_loss=142.40 valid_maxp=0.80 bps=67 *
+[epoch80] trian_loss=137.84 train_maxp=0.80 valid_loss=142.29 valid_maxp=0.80 bps=67 
+[epoch81] trian_loss=137.72 train_maxp=0.80 valid_loss=142.31 valid_maxp=0.80 bps=67 
+[epoch82] trian_loss=137.64 train_maxp=0.80 valid_loss=142.15 valid_maxp=0.80 bps=67 *
+[epoch83] trian_loss=137.59 train_maxp=0.80 valid_loss=141.89 valid_maxp=0.80 bps=67 *
+[epoch84] trian_loss=137.48 train_maxp=0.80 valid_loss=141.57 valid_maxp=0.80 bps=67 *
+[epoch85] trian_loss=137.37 train_maxp=0.80 valid_loss=141.71 valid_maxp=0.80 bps=67 
+[epoch86] trian_loss=137.33 train_maxp=0.80 valid_loss=141.70 valid_maxp=0.80 bps=67 
+[epoch87] trian_loss=137.20 train_maxp=0.80 valid_loss=141.67 valid_maxp=0.81 bps=67 
+[epoch88] trian_loss=137.13 train_maxp=0.80 valid_loss=141.27 valid_maxp=0.80 bps=67 *
+[epoch89] trian_loss=137.04 train_maxp=0.80 valid_loss=141.34 valid_maxp=0.81 bps=67 
+[epoch90] trian_loss=136.96 train_maxp=0.80 valid_loss=141.30 valid_maxp=0.80 bps=67 
+[epoch91] trian_loss=136.90 train_maxp=0.80 valid_loss=140.90 valid_maxp=0.80 bps=67 *
+[epoch92] trian_loss=136.81 train_maxp=0.80 valid_loss=141.08 valid_maxp=0.81 bps=67 
+[epoch93] trian_loss=136.79 train_maxp=0.80 valid_loss=141.19 valid_maxp=0.81 bps=67 
+[epoch94] trian_loss=136.68 train_maxp=0.80 valid_loss=141.21 valid_maxp=0.81 bps=67 
+[epoch95] trian_loss=136.62 train_maxp=0.81 valid_loss=140.88 valid_maxp=0.81 bps=67 
+[epoch96] trian_loss=136.52 train_maxp=0.81 valid_loss=141.03 valid_maxp=0.81 bps=67 
+[epoch97] trian_loss=136.42 train_maxp=0.81 valid_loss=140.80 valid_maxp=0.81 bps=67 
+[epoch98] trian_loss=136.41 train_maxp=0.81 valid_loss=140.60 valid_maxp=0.81 bps=67 *
+[epoch99] trian_loss=136.34 train_maxp=0.81 valid_loss=140.68 valid_maxp=0.81 bps=67 
+[epoch100] trian_loss=136.27 train_maxp=0.81 valid_loss=140.42 valid_maxp=0.81 bps=67 *
+[epoch101] trian_loss=136.18 train_maxp=0.81 valid_loss=140.50 valid_maxp=0.81 bps=67 
+[epoch102] trian_loss=136.10 train_maxp=0.81 valid_loss=140.36 valid_maxp=0.81 bps=67 
+[epoch103] trian_loss=136.03 train_maxp=0.81 valid_loss=140.23 valid_maxp=0.81 bps=67 *
+[epoch104] trian_loss=135.96 train_maxp=0.81 valid_loss=140.10 valid_maxp=0.81 bps=67 
+[epoch105] trian_loss=135.93 train_maxp=0.81 valid_loss=140.19 valid_maxp=0.81 bps=67 
+[epoch106] trian_loss=135.87 train_maxp=0.81 valid_loss=139.78 valid_maxp=0.81 bps=67 *
+[epoch107] trian_loss=135.85 train_maxp=0.81 valid_loss=140.16 valid_maxp=0.81 bps=67 
+[epoch108] trian_loss=135.73 train_maxp=0.81 valid_loss=139.92 valid_maxp=0.81 bps=67 
+[epoch109] trian_loss=135.77 train_maxp=0.81 valid_loss=139.57 valid_maxp=0.81 bps=67 *
+[epoch110] trian_loss=135.62 train_maxp=0.81 valid_loss=139.61 valid_maxp=0.81 bps=67 
+[epoch111] trian_loss=135.61 train_maxp=0.81 valid_loss=139.72 valid_maxp=0.81 bps=67 
+[epoch112] trian_loss=135.51 train_maxp=0.81 valid_loss=139.34 valid_maxp=0.81 bps=67 *
+[epoch113] trian_loss=135.51 train_maxp=0.81 valid_loss=139.88 valid_maxp=0.82 bps=67 
+[epoch114] trian_loss=135.46 train_maxp=0.81 valid_loss=139.76 valid_maxp=0.81 bps=67 
+[epoch115] trian_loss=135.41 train_maxp=0.81 valid_loss=139.34 valid_maxp=0.81 bps=67 
+[epoch116] trian_loss=135.33 train_maxp=0.81 valid_loss=139.29 valid_maxp=0.81 bps=67 
+[epoch117] trian_loss=135.28 train_maxp=0.81 valid_loss=139.46 valid_maxp=0.81 bps=67 
+[epoch118] trian_loss=135.27 train_maxp=0.81 valid_loss=139.33 valid_maxp=0.81 bps=67 
+[epoch119] trian_loss=135.18 train_maxp=0.81 valid_loss=139.32 valid_maxp=0.81 bps=67 
+[epoch120] trian_loss=135.09 train_maxp=0.81 valid_loss=139.08 valid_maxp=0.81 bps=67 *
+[epoch121] trian_loss=135.07 train_maxp=0.81 valid_loss=139.19 valid_maxp=0.81 bps=67 
+[epoch122] trian_loss=135.03 train_maxp=0.81 valid_loss=139.62 valid_maxp=0.82 bps=67 
+[epoch123] trian_loss=135.02 train_maxp=0.81 valid_loss=139.22 valid_maxp=0.81 bps=67 
+[epoch124] trian_loss=134.98 train_maxp=0.81 valid_loss=138.84 valid_maxp=0.82 bps=67 *
+[epoch125] trian_loss=134.90 train_maxp=0.81 valid_loss=138.95 valid_maxp=0.82 bps=67 
+[epoch126] trian_loss=134.84 train_maxp=0.81 valid_loss=139.03 valid_maxp=0.82 bps=67 
+[epoch127] trian_loss=134.86 train_maxp=0.82 valid_loss=138.78 valid_maxp=0.82 bps=67 
+[epoch128] trian_loss=134.79 train_maxp=0.82 valid_loss=138.78 valid_maxp=0.82 bps=67 
+[epoch129] trian_loss=134.72 train_maxp=0.82 valid_loss=138.81 valid_maxp=0.82 bps=67 
+[epoch130] trian_loss=134.72 train_maxp=0.82 valid_loss=138.84 valid_maxp=0.82 bps=67 
+[epoch131] trian_loss=134.63 train_maxp=0.82 valid_loss=138.43 valid_maxp=0.82 bps=67 *
+[epoch132] trian_loss=134.67 train_maxp=0.82 valid_loss=138.86 valid_maxp=0.82 bps=67 
+[epoch133] trian_loss=134.56 train_maxp=0.82 valid_loss=138.50 valid_maxp=0.82 bps=67 
+[epoch134] trian_loss=134.52 train_maxp=0.82 valid_loss=138.65 valid_maxp=0.82 bps=67 
+[epoch135] trian_loss=134.47 train_maxp=0.82 valid_loss=138.53 valid_maxp=0.82 bps=67 
+[epoch136] trian_loss=134.47 train_maxp=0.82 valid_loss=138.43 valid_maxp=0.82 bps=67 
+[epoch137] trian_loss=134.40 train_maxp=0.82 valid_loss=138.61 valid_maxp=0.82 bps=67 
+[epoch138] trian_loss=134.41 train_maxp=0.82 valid_loss=138.13 valid_maxp=0.82 bps=67 *
+[epoch139] trian_loss=134.34 train_maxp=0.82 valid_loss=138.73 valid_maxp=0.82 bps=67 
+[epoch140] trian_loss=134.30 train_maxp=0.82 valid_loss=138.02 valid_maxp=0.82 bps=67 
+[epoch141] trian_loss=134.24 train_maxp=0.82 valid_loss=138.35 valid_maxp=0.82 bps=67 
+[epoch142] trian_loss=134.21 train_maxp=0.82 valid_loss=138.30 valid_maxp=0.82 bps=67 
+[epoch143] trian_loss=134.25 train_maxp=0.82 valid_loss=138.39 valid_maxp=0.82 bps=67 
+[epoch144] trian_loss=134.19 train_maxp=0.82 valid_loss=138.07 valid_maxp=0.82 bps=67 
+[epoch145] trian_loss=134.12 train_maxp=0.82 valid_loss=138.09 valid_maxp=0.82 bps=67 
+[epoch146] trian_loss=134.09 train_maxp=0.82 valid_loss=138.33 valid_maxp=0.82 bps=67 
+[epoch147] trian_loss=134.05 train_maxp=0.82 valid_loss=138.15 valid_maxp=0.82 bps=67 
+[epoch148] trian_loss=134.04 train_maxp=0.82 valid_loss=137.84 valid_maxp=0.82 bps=67 *
+[epoch149] trian_loss=134.07 train_maxp=0.82 valid_loss=137.95 valid_maxp=0.82 bps=67 
+[epoch150] trian_loss=133.99 train_maxp=0.82 valid_loss=137.87 valid_maxp=0.82 bps=67 
+[epoch151] trian_loss=133.96 train_maxp=0.82 valid_loss=137.86 valid_maxp=0.82 bps=67 
+[epoch152] trian_loss=133.95 train_maxp=0.82 valid_loss=138.03 valid_maxp=0.82 bps=67 
+[epoch153] trian_loss=133.85 train_maxp=0.82 valid_loss=138.05 valid_maxp=0.82 bps=67 
+[epoch154] trian_loss=133.81 train_maxp=0.82 valid_loss=137.62 valid_maxp=0.82 bps=67 *
+[epoch155] trian_loss=133.82 train_maxp=0.82 valid_loss=137.90 valid_maxp=0.82 bps=67 
+[epoch156] trian_loss=133.80 train_maxp=0.82 valid_loss=137.92 valid_maxp=0.82 bps=67 
+[epoch157] trian_loss=133.78 train_maxp=0.82 valid_loss=137.96 valid_maxp=0.82 bps=67 
+[epoch158] trian_loss=133.71 train_maxp=0.82 valid_loss=137.79 valid_maxp=0.82 bps=67 
+[epoch159] trian_loss=133.73 train_maxp=0.82 valid_loss=137.73 valid_maxp=0.82 bps=67 
+[epoch160] trian_loss=133.67 train_maxp=0.82 valid_loss=137.81 valid_maxp=0.83 bps=67 
+[epoch161] trian_loss=133.67 train_maxp=0.82 valid_loss=137.42 valid_maxp=0.82 bps=67 *
+[epoch162] trian_loss=133.68 train_maxp=0.82 valid_loss=137.47 valid_maxp=0.82 bps=67 
+[epoch163] trian_loss=133.55 train_maxp=0.82 valid_loss=137.18 valid_maxp=0.82 bps=67 *
+[epoch164] trian_loss=133.62 train_maxp=0.82 valid_loss=137.62 valid_maxp=0.82 bps=67 
+[epoch165] trian_loss=133.56 train_maxp=0.82 valid_loss=137.51 valid_maxp=0.83 bps=67 
+[epoch166] trian_loss=133.52 train_maxp=0.82 valid_loss=137.37 valid_maxp=0.83 bps=67 
+[epoch167] trian_loss=133.47 train_maxp=0.82 valid_loss=137.56 valid_maxp=0.83 bps=67 
+[epoch168] trian_loss=133.43 train_maxp=0.82 valid_loss=137.51 valid_maxp=0.83 bps=67 
+[epoch169] trian_loss=133.45 train_maxp=0.82 valid_loss=137.44 valid_maxp=0.83 bps=67 
+[epoch170] trian_loss=133.46 train_maxp=0.82 valid_loss=137.51 valid_maxp=0.83 bps=67 
+[epoch171] trian_loss=133.35 train_maxp=0.82 valid_loss=137.28 valid_maxp=0.82 bps=67 
+[epoch172] trian_loss=133.32 train_maxp=0.82 valid_loss=137.11 valid_maxp=0.83 bps=67 
+[epoch173] trian_loss=133.36 train_maxp=0.82 valid_loss=137.13 valid_maxp=0.83 bps=67 
+[epoch174] trian_loss=133.30 train_maxp=0.83 valid_loss=137.05 valid_maxp=0.83 bps=67 
+[epoch175] trian_loss=133.31 train_maxp=0.83 valid_loss=136.83 valid_maxp=0.83 bps=67 *
+[epoch176] trian_loss=133.27 train_maxp=0.83 valid_loss=137.09 valid_maxp=0.83 bps=67 
+[epoch177] trian_loss=133.25 train_maxp=0.83 valid_loss=136.91 valid_maxp=0.83 bps=67 
+[epoch178] trian_loss=133.19 train_maxp=0.83 valid_loss=137.16 valid_maxp=0.83 bps=67 
+[epoch179] trian_loss=133.18 train_maxp=0.83 valid_loss=137.01 valid_maxp=0.83 bps=67 
+[epoch180] trian_loss=133.19 train_maxp=0.83 valid_loss=136.98 valid_maxp=0.83 bps=67 
+[epoch181] trian_loss=133.19 train_maxp=0.83 valid_loss=137.08 valid_maxp=0.83 bps=67 
+[epoch182] trian_loss=133.09 train_maxp=0.83 valid_loss=137.01 valid_maxp=0.83 bps=67 
+[epoch183] trian_loss=133.08 train_maxp=0.83 valid_loss=136.86 valid_maxp=0.83 bps=67 
+[epoch184] trian_loss=133.07 train_maxp=0.83 valid_loss=136.89 valid_maxp=0.83 bps=67 
+[epoch185] trian_loss=133.04 train_maxp=0.83 valid_loss=136.81 valid_maxp=0.83 bps=67 
+[epoch186] trian_loss=133.05 train_maxp=0.83 valid_loss=136.93 valid_maxp=0.83 bps=67 
+[epoch187] trian_loss=133.02 train_maxp=0.83 valid_loss=136.64 valid_maxp=0.83 bps=67 *
+[epoch188] trian_loss=132.99 train_maxp=0.83 valid_loss=137.22 valid_maxp=0.83 bps=67 
+[epoch189] trian_loss=133.01 train_maxp=0.83 valid_loss=136.73 valid_maxp=0.83 bps=67 
+[epoch190] trian_loss=132.93 train_maxp=0.83 valid_loss=136.75 valid_maxp=0.83 bps=67 
+[epoch191] trian_loss=132.88 train_maxp=0.83 valid_loss=136.75 valid_maxp=0.83 bps=67 
+[epoch192] trian_loss=132.92 train_maxp=0.83 valid_loss=136.44 valid_maxp=0.83 bps=67 *
+[epoch193] trian_loss=132.92 train_maxp=0.83 valid_loss=136.73 valid_maxp=0.83 bps=67 
+[epoch194] trian_loss=132.87 train_maxp=0.83 valid_loss=136.48 valid_maxp=0.83 bps=67 
+[epoch195] trian_loss=132.83 train_maxp=0.83 valid_loss=136.49 valid_maxp=0.83 bps=67 
+[epoch196] trian_loss=132.86 train_maxp=0.83 valid_loss=136.45 valid_maxp=0.83 bps=67 
+[epoch197] trian_loss=132.82 train_maxp=0.83 valid_loss=136.53 valid_maxp=0.83 bps=67 
+[epoch198] trian_loss=132.78 train_maxp=0.83 valid_loss=136.53 valid_maxp=0.83 bps=67 
+[epoch199] trian_loss=132.78 train_maxp=0.83 valid_loss=136.61 valid_maxp=0.83 bps=67 
+Training Done
