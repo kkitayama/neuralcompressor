@@ -1,0 +1,1 @@
+Mean euclidean distance: 16.347118919115065
